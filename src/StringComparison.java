@@ -37,7 +37,7 @@ public class StringComparison {
 
 
 
-
+    //Time complexity O(n)
     public static void main(String[] args) {
         System.out.println(twoStrings("S","sas"));
     }
